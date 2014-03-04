@@ -1,3 +1,4 @@
 asdfasdf
 some text
-added some more text in the master branch
+Results Of Merge Line using KDIFF3:
+added more text in hotfix branch (but merged it with master)
