@@ -6,3 +6,5 @@ added more text in hotfix branch (but merged it with master)
 added a new line in hotfix branch
 ///////////////////////////////////////////
 // some comments in the hot fix branch that are not in master
+// ----------------------
+/// adding some more lines in the master branch
