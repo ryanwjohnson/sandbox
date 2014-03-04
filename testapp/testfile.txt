@@ -8,3 +8,4 @@ added a new line in hotfix branch
 // some comments in the hot fix branch that are not in master
 //--------------------------
 // added another hotfix comment
+// and another line
