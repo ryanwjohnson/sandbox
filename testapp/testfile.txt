@@ -1,4 +1,4 @@
 This is the hotfix test file.
 ------------------------------
 changes in the hotfix branch
-these are changes in the master branch...
+these are changes in the master branch..., but considered hotfix changes
