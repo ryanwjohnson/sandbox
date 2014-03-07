@@ -1,2 +1,2 @@
-Master version is the correct version... duh
-Making changes in hotfix branch
+This is the hotfix branch version of my test file.
+------------------------------------------------
