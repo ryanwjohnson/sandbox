@@ -1,2 +1,3 @@
 This is the hotfix branch version of my test file.
 ------------------------------------------------
+In master branch, making better changes... these will conflict with another branch probably.
