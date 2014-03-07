@@ -2,3 +2,5 @@ this is a test
 adding several lines
 adding another line
 changes in hotfix branch
+---------------------------
+Made these changes in hotfix, they are good
