@@ -4,3 +4,4 @@ adding another line
 changes in hotfix branch
 -------------------------
 made these changes in the master branch, they are better
+hotfix, they are good
